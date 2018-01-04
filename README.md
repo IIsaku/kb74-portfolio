@@ -24,6 +24,8 @@ Ik heb voor de minor cursussen gedaan op DataCamp, Coursera en JupyterHub.
 
 ### 2.1 Datacamp
 
+Op DataCamp heb ik alle verplichte onderdelen gevolgd.
+
 ### 2.2 Coursera
 
 ### 2.3 JupyterHub
