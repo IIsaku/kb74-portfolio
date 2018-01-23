@@ -34,7 +34,7 @@ De 'Calling Bullshit'-opdracht heb ik nog niet afgerond.
 
 Binnen de minor heb ik met een projectgroep onderzoek gedaan naar het maken van een semantische map van stedelijke omgevingen ten behoeve van autonoom rijden. In dit hoofdstuk zal ik ingaan op mijn werkzaamheden binnen dit onderzoek.
 
-### 2.1 Algemene taken
+### 2.1 Projectmatige taken
 
 De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 
@@ -44,6 +44,7 @@ De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 
 Verder heb ik ook de volgende notule opgesteld:
 
+TODO: Notulen opzoeken die ik gemaakt heb.
 
 ### 2.2 Inhoudelijke taken
 
