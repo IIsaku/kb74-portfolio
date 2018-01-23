@@ -34,10 +34,21 @@ De 'Calling Bullshit'-opdracht heb ik nog niet afgerond.
 
 Binnen de minor heb ik met een projectgroep onderzoek gedaan naar het maken van een semantische map van stedelijke omgevingen ten behoeve van autonoom rijden. In dit hoofdstuk zal ik ingaan op mijn werkzaamheden binnen dit onderzoek.
 
-### 2.1 Voortgangspresentaties
+### 2.1 Algemene taken
 
 De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 
 - [Presentatie week 6](Presentaties/Presentatie%20week%206.pdf "Presentatie week 6")
 - [Presentatie week 15](Presentaties/Presentatie%20week%2015.pdf "Presentatie week 15")
 - [Presentatie week 16](Presentaties/Presentatie%20week%2016.pdf "Presentatie week 16")
+
+Verder heb ik ook de volgende notule opgesteld:
+
+
+### 2.2 Inhoudelijke taken
+
+Per opgepakt ticket een beschrijving van de taak en eventuele producten opnemen.
+
+#### Taak 4
+
+Tekst
