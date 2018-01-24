@@ -8,14 +8,16 @@
 
 ## Inhoudsopgave
 
-1\. Individueel werk  
+1. Individueel werk  
     1.1 Datacamp  
     1.2 Coursera  
-    1.3 JupyterHub
+    1.3 JupyterHub  
     1.4 Calling Bullshit  
-2\. Projectwerk  
+2. Projectwerk  
     2.1 Projectmatige taken  
     2.2 Inhoudelijke taken  
+    * Taak 4 - Literatuur Scan: LSD-SLAM  
+
 TODO: inhoudsopgave afmaken
 
 
