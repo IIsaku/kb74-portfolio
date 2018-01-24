@@ -48,8 +48,96 @@ TODO: Notulen opzoeken die ik gemaakt heb.
 
 ### 2.2 Inhoudelijke taken
 
-Per opgepakt ticket een beschrijving van de taak en eventuele producten opnemen.
+Binnen het onderzoek heb ik een bijdrage geleverd aan verschillende taken. Hieronder geef ik per taak aan wat mijn bijdrage is geweest.
 
-#### Taak 4
+#### Taak 4 - Literatuur Scan: LSD-SLAM
+
+Tekst
+
+#### Taak 23 - Werking LSD SLAM algoritme begrijpen
+
+Tekst
+
+#### Taak 27 - SVO Paper bestuderen
+
+Tekst
+
+#### Taak 53 - Github repo maken voor eigen ORB2 branch
+
+Tekst
+
+#### Taak 55 - Object detection papers lezen
+
+Tekst
+
+#### Taak 56 - Presentatie maken + blog updaten
+
+Tekst
+
+#### Taak 59 - beschrijven data structuur Map (zonder MapPoint) in ORB2
+
+Tekst
+
+#### Taak 61 - repo in urbinn maken
+
+Tekst
+
+#### Taak 63 - Evaluatie: aanpak pointcloud vs pointcloud
+
+Tekst
+
+#### Taak 64 - Evaluatie implementatie: pointcloud vs pointcloud
+
+Tekst
+
+#### Taak 94 - Dieptebeeld genereren slinger
+
+Tekst
+
+#### Taak 95 - Evalueren slinger
+
+Tekst
+
+#### Taak 100 - Opnamen slinger met kruisjes op grond
+
+Tekst
+
+#### Taak 101 - Opnemen van beeldmateriaal in de hhs
+
+Tekst
+
+#### Taak 103 - Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2
+
+Tekst
+
+#### Taak 104 - Opnemen beeldmateriaal van ovaal en buiten
+
+Tekst
+
+#### Taak 108 - URB: Tracking
+
+Tekst
+
+#### Taak 109 - URB: ORB2 in Python
+
+Tekst
+
+#### Taak 140 - URB uitbreiden
+
+Tekst
+
+#### Taak 142 - Run URB over dataset delft #141
+
+Tekst
+
+#### Taak 146 - Analyseren URB foute sequences Kitti
+
+Tekst
+
+#### Taak 152 - 1. Introduction
+
+Tekst
+
+#### Taak 153 - 2. Related Work
 
 Tekst
