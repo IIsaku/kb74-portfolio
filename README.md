@@ -56,7 +56,7 @@ Al vrij snel in het onderzoek kwam LSD-SLAM ter sprake als een potentieel algori
 
 #### Taak 23 - Werking LSD SLAM algoritme begrijpen
 
-Tekst
+Er is bij taak 4 veel informatiemateriaal over LSD-SLAM gevonden. Voor deze taak ben ik samen met Nektarios en Jeroen dieper ingegaan op de werking van LSD-SLAM. Uiteindelijk hebben we een [overzichtelijke samenvatting](Taken/Taak%204%20-%20LSD-SLAM.pdf "overzichtelijke samenvatting") gemaakt voor de rest van de groep.
 
 #### Taak 27 - SVO Paper bestuderen
 
