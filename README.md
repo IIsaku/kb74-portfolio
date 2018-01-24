@@ -8,7 +8,16 @@
 
 ## Inhoudsopgave
 
-TODO: inhoudsopgave maken
+1\. Individueel werk  
+    1.1 Datacamp  
+    1.2 Coursera  
+    1.3 JupyterHub
+    1.4 Calling Bullshit  
+2\. Projectwerk  
+    2.1 Projectmatige taken  
+    2.2 Inhoudelijke taken  
+TODO: inhoudsopgave afmaken
+
 
 ## 1. Individueel werk
 
