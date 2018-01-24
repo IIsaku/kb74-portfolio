@@ -70,10 +70,6 @@ Tekst
 
 Tekst
 
-#### Taak 56 - Presentatie maken + blog updaten
-
-Tekst
-
 #### Taak 59 - beschrijven data structuur Map (zonder MapPoint) in ORB2
 
 Tekst
