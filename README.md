@@ -60,7 +60,7 @@ Er is bij taak 4 veel informatiemateriaal over LSD-SLAM gevonden. Voor deze taak
 
 #### Taak 27 - SVO Paper bestuderen
 
-Tekst
+Een ander potentieel algoritme voor een semantische kaart was SVO. Samen met Daniëllo heb ik de paper over SVO bestudeerd en de werking van het algoritme samengevat. De [samenvatting](Taken/Taak%2027%20-%20SVO.pdf "samenvatting") was opgesteld om binnen de groep een beter beeld te krijgen van het algoritme.
 
 #### Taak 53 - Github repo maken voor eigen ORB2 branch
 
