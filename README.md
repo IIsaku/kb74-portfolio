@@ -52,7 +52,7 @@ Binnen het onderzoek heb ik een bijdrage geleverd aan verschillende taken. Hiero
 
 #### Taak 4 - Literatuur Scan: LSD-SLAM
 
-Tekst
+Al vrij snel in het onderzoek kwam LSD-SLAM ter sprake als een potentieel algoritme voor het gedeeltelijk opstellen van een semantische kaart. Om meer te kennis te krijgen over SLAM-algoritmes en specifiek LSD-SLAM, heb ik samen met Nektarios informatiemateriaal, zoals papers, op internet gezocht en doorgenomen. Ook heb ik met anderen van de groep die zich in het onderwerp verdiept hebben, gesproken om een beter begrip te krijgen. Uiteindelijk hebben we het informatiemateriaal in de map [LSD-SLAM informatiemateriaal](LSD-SLAM%20informatiemateriaal "LSD-SLAM informatiemateriaal") weten te verzamelen.
 
 #### Taak 23 - Werking LSD SLAM algoritme begrijpen
 
