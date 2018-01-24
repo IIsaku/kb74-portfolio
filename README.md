@@ -64,7 +64,7 @@ Een ander potentieel algoritme voor een semantische kaart was SVO. Samen met Dan
 
 #### Taak 53 - Github repo maken voor eigen ORB2 branch
 
-Tekst
+ORB2 bleek na enig literatuuronderzoek een goede kandidaat te zijn voor het opstellen van een semantische kaart. Het SLAM-alogirtme is open-source beschikbaar en om verder inzicht te krijgen of het algoritme binnen ons onderzoek bruikbaar was, moesten we de code kunnen bewerken. Vandaar dat ik en wat andere teamgenoten voor deze taak uiteindelijk een eigen [repository](https://github.com/urbinn/orb2 "repository") hebben gemaakt op GitHub die geforked is van de repository [ORB_SLAM2](https://github.com/Alkaid-Benetnash/ORB_SLAM2 "ORB_SLAM2") van Alkaid-Benetnash. Het vergde nog enig werk om de ORB2 software aan de praat te krijgen op de server.
 
 #### Taak 55 - Object detection papers lezen
 
