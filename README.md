@@ -87,7 +87,31 @@ Op een gegeven moment zijn we steeds meer experimenten gaan uitvoeren met SLAM-s
 
 #### Taak 64 - Evaluatie implementatie: pointcloud vs pointcloud
 
-Tekst
+Voor deze taak hebben Jeroen, Jeffrey, Viradj en ik het evaluatieplan geprobeerd te implementeren. In het evaluatieplan was al beschreven met welke metrics en welke tool de point clouds vergeleken dienen te worden. De uitdaging lag bij het verkrijgen van een goede ground truth. We hebben naar drie verschillende manieren gekeken om een ground truth op te stellen van de omgeving, namelijk op basis van:
+
+* LIDAR-data
+* Dieptebeeld
+* ZED mesh generatie
+
+##### LIDAR-DATA
+
+Allereerst hebben we gekeken naar LIDAR-data, omdat de KITTI-dataset dit o.a. als ground truth aanbiedt en binnen de minor mogelijkheden waren om aan een LIDAR te komen. Het probleem was dat er per frame een point cloud van de LIDAR was. Deze moesten samengevoegd worden tot één point cloud, zodat het gebruikt kon worden om te evalueren. Dit bleek niet zo eenvoudig te zijn, omdat point clouds van opvolgende frames een verschuiving hebben, zoals te zien is in de afbeelding hieronder.
+
+![]()
+
+ In een notebook, dat helaas per ongeluk verwijderd is door Jeroen, hebben we geprobeerd dit te doen met behulp van pose informatie van de KITTI-dataset. Helaas zijn we er na lang proberen niet in geslaagd om dat voor elkaar te krijgen. Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
+
+##### Dieptebeeld
+
+Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Met een van de tools kan een dieptebeeld gegenereert worden. Dit dieptebeeld bleek echter relatief te zijn binnen het frame en geen absolute dieptewaarden, waardoor deze optie ook niet gebruikt kon worden.
+
+##### ZED mesh generatie
+
+Een andere tool voor de ZED-camera is ZEDfu die een 3D mesh, een soort point cloud zoals te zien is in de afbeelding hieronder, genereert aan de hand van een SLAM algoritme. Ik en Viradj zijn met deze tool aan de slag gegaan om te kijken of het bruikbaar was. Hiervoor hebben we beeldmateriaal van de gangen van de Slinger gebruikt. Uiteindelijk bleek dat deze tool te onnauwkeurig was, omdat het geen loop closing functionaliteit bevat, drift vertoont in opnames en niet goed met reflectie omgaat bij de bepaling van diepte.
+
+![3D mesh van een hal in de Slinger](Afbeeldingen/3D%20mesh%20Slinger.png)
+
+TODO: beschrijven dat we besloten hebben dat formeel evalueren niet gaat.
 
 #### Taak 94 - Dieptebeeld genereren slinger
 
