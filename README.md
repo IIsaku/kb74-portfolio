@@ -87,7 +87,7 @@ Op een gegeven moment zijn we steeds meer experimenten gaan uitvoeren met SLAM-s
 
 #### Taak 64 - Evaluatie implementatie: pointcloud vs pointcloud
 
-Voor deze taak hebben Jeroen, Jeffrey, Viradj en ik het evaluatieplan geprobeerd te implementeren. In het evaluatieplan was al beschreven met welke metrics en welke tool de point clouds vergeleken dienen te worden. De uitdaging lag bij het verkrijgen van een goede ground truth. We hebben naar drie verschillende manieren gekeken om een ground truth op te stellen van de omgeving, namelijk op basis van:
+Voor deze taak hebben Jeroen, Jeffrey, Viradj en ik het evaluatieplan geprobeerd te implementeren. In het evaluatieplan was al beschreven met welke metrics en welke tool de point clouds vergeleken dienen te worden. De uitdaging lag bij het verkrijgen van een goede ground truth point cloud. We hebben naar drie verschillende manieren gekeken om een ground truth op te stellen van de omgeving, namelijk op basis van:
 
 * LIDAR-data
 * Dieptebeeld
@@ -97,13 +97,13 @@ Voor deze taak hebben Jeroen, Jeffrey, Viradj en ik het evaluatieplan geprobeerd
 
 Allereerst hebben we gekeken naar LIDAR-data, omdat de KITTI-dataset dit o.a. als ground truth aanbiedt en binnen de minor mogelijkheden waren om aan een LIDAR te komen. Het probleem was dat er per frame een point cloud van de LIDAR was. Deze moesten samengevoegd worden tot één point cloud, zodat het gebruikt kon worden om te evalueren. Dit bleek niet zo eenvoudig te zijn, omdat point clouds van opvolgende frames een verschuiving hebben, zoals te zien is in de afbeelding hieronder.
 
-![]()
+![LIDAR point clouds](Afbeeldingen/LIDAR%20point%20clouds.png)
 
- In een notebook, dat helaas per ongeluk verwijderd is door Jeroen, hebben we geprobeerd dit te doen met behulp van pose informatie van de KITTI-dataset. Helaas zijn we er na lang proberen niet in geslaagd om dat voor elkaar te krijgen. Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
+ In een notebook, dat helaas per ongeluk verwijderd is door Jeroen, hebben we geprobeerd dit te doen met behulp van pose informatie afkomstig van de KITTI-dataset. Helaas zijn we er na lang proberen niet in geslaagd om dat voor elkaar te krijgen. Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
 
 ##### Dieptebeeld
 
-Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Met een van de tools kan een dieptebeeld gegenereert worden. Dit dieptebeeld bleek echter relatief te zijn binnen het frame en geen absolute dieptewaarden, waardoor deze optie ook niet gebruikt kon worden.
+Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Met een van de tools kan een dieptebeeld gegenereert worden. Dit hebben we gedaan, maar het dieptebeeld bleek relatief te zijn binnen een frame en bevatte geen absolute dieptewaarden, waardoor deze optie ook niet gebruikt kon worden.
 
 ##### ZED mesh generatie
 
@@ -111,7 +111,7 @@ Een andere tool voor de ZED-camera is ZEDfu die een 3D mesh, een soort point clo
 
 ![3D mesh van een hal in de Slinger](Afbeeldingen/3D%20mesh%20Slinger.png)
 
-TODO: beschrijven dat we besloten hebben dat formeel evalueren niet gaat.
+Nadat alle mogelijkheden afvielen, hebben we besloten dat het formeel evalueren van een point cloud niet gaat lukken met de middelen en kennis die wij hebben. Vandaar dat we besloten hebben dit voorlopig op informele basis te zullen gaan evalueren.
 
 #### Taak 94 - Dieptebeeld genereren slinger
 
