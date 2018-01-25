@@ -95,13 +95,19 @@ Voor deze taak hebben Jeroen, Jeffrey, Viradj en ik het evaluatieplan geprobeerd
 
 ##### LIDAR-DATA
 
-Allereerst hebben we gekeken naar LIDAR-data, omdat de KITTI-dataset dit o.a. als ground truth aanbiedt en binnen de minor mogelijkheden waren om aan een LIDAR te komen. Het probleem was dat er per frame een point cloud van de LIDAR was. Deze moesten samengevoegd worden tot één point cloud, zodat het gebruikt kon worden om te evalueren. Dit bleek niet zo eenvoudig te zijn, omdat point clouds van opvolgende frames een verschuiving hebben, zoals te zien is in de afbeelding hieronder.
+Allereerst hebben Jeroen, Jeffrey en ik gekeken naar LIDAR-data, omdat de KITTI-dataset dit o.a. als ground truth aanbiedt en binnen de minor mogelijkheden waren om aan een LIDAR te komen. Het probleem was dat er per frame een point cloud van de LIDAR was. Deze moesten samengevoegd worden tot één point cloud, zodat het gebruikt kon worden om te evalueren. Dit bleek niet zo eenvoudig te zijn, omdat point clouds van opvolgende frames een verschuiving hebben, zoals te zien is in de afbeelding hieronder.
 
 ![LIDAR point clouds](Afbeeldingen/LIDAR%20point%20clouds.png)
 
- In een notebook, dat helaas per ongeluk verwijderd is door Jeroen, hebben we geprobeerd dit te doen met behulp van pose informatie afkomstig van de KITTI-dataset. Helaas zijn we er na lang proberen niet in geslaagd om dat voor elkaar te krijgen. Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
+ In een notebook, dat helaas per ongeluk verwijderd is door Jeroen, hebben we geprobeerd dit te doen met behulp van pose informatie afkomstig van de KITTI-dataset. Helaas zijn we er na lang proberen niet in geslaagd om dat voor elkaar te krijgen. 
+ 
+ TODO: iets zeggen over de per keyframe aanpak en notebook toevoegen
+ 
+ Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
 
 ##### Dieptebeeld
+
+TODO: experiment notebook toevoegen en reden van niet gebruiken uitbreiden.
 
 Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Met een van de tools kan een dieptebeeld gegenereert worden. Dit hebben we gedaan, maar het dieptebeeld bleek relatief te zijn binnen een frame en bevatte geen absolute dieptewaarden, waardoor deze optie ook niet gebruikt kon worden.
 
