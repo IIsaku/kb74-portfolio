@@ -83,7 +83,7 @@ Na een zekere mate van progressie op het gebied van SLAM-algoritmes zijn we de f
 
 #### Taak 63 - Evaluatie: aanpak pointcloud vs pointcloud
 
-Tekst
+Op een gegeven moment zijn we steeds meer experimenten gaan uitvoeren met SLAM-setups, zoals ORB2, en kwam er behoefte om op formele wijze de kwaliteit van een point cloud (een ruimte met 3D-coördinaten) vast te stellen. De point cloud vormt namelijk een belangrijk onderdeel van onze semantische kaart en heeft daarom grote invloed op de kwaliteit ervan. Binnen deze taak hebben Bob en ik een [evaluatieplan](taken/Taak%2063%20-%20Evaluatieplan%20point%20cloud.pdf "evaluatieplan") voor point clouds opgesteld.
 
 #### Taak 64 - Evaluatie implementatie: pointcloud vs pointcloud
 
