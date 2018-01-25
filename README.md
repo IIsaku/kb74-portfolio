@@ -81,14 +81,6 @@ ORB2 bleek na enig literatuuronderzoek een goede kandidaat te zijn voor het opst
 
 Na een zekere mate van progressie op het gebied van SLAM-algoritmes zijn we de focus gaan leggen op een ander belangrijk onderdeel voor het opstellen van een semantische kaart, namelijk objectdetectie. Allereerst is er gekeken naar bestaande objectdectie algoritmes. Er zijn verschillende papers gevonden waarvan er twee veelbelovend waren. Deze [papers](Objectdetectie%20informatiemateriaal "papers") hebben we allemaal grondig doorgelezen en besproken tijdens een 'Close Reading'-sessie.
 
-#### Taak 59 - beschrijven data structuur Map (zonder MapPoint) in ORB2
-
-Tekst
-
-#### Taak 61 - repo in urbinn maken
-
-Tekst
-
 #### Taak 63 - Evaluatie: aanpak pointcloud vs pointcloud
 
 Tekst
