@@ -135,8 +135,12 @@ Tekst
 
 #### Taak 152 - 1. Introduction
 
-Tekst
+TODO: Link toevoegen naar paper
+
+In een vergadering hebben we de plannen besproken voor het op te leveren paper dat gaat over onze vernieuwingen aan het orginele ORB2-algoritme. Voor deze taak hebben ik en wat andere groepsgenoten de introductie van het paper geschreven.
 
 #### Taak 153 - 2. Related Work
 
-Tekst
+TODO: Link toevoegen naar paper
+
+Voor deze taak heb ik samen met Viradj een bijdrage geleverd aan het hoofdstuk 'Related work' van het paper, namelijk het stuk tekst over SLAM.
