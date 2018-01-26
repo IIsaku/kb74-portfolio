@@ -11,15 +11,16 @@
 1. Individueel werk  
     1.1 Datacamp  
     1.2 Coursera  
-    1.3 JupyterHub  
-    1.4 Calling Bullshit  
+    1.3 Workshops  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 SCRUM-workshop  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2 JupyterHub tutorials  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3 Calling Bullshit  
 2. Projectwerk  
     2.1 Projectmatige taken  
     2.2 Inhoudelijke taken  
     * Taak 4 - Literatuur Scan: LSD-SLAM  
 
 TODO: inhoudsopgave afmaken
-
 
 ## 1. Individueel werk
 
@@ -33,11 +34,19 @@ Op DataCamp heb ik nagenoeg alle verplichte onderdelen gevolgd. Het enige wat mo
 
 Op Coursera heb ik de eerste twee weken van de cursus 'Machine Learning' voltooid. Het materiaal van week 3 en 6 moet ik nog doorlopen. In de map [Coursera](Coursera "Coursera") is het bewijsmateriaal te vinden.
 
-### 1.3 JupyterHub
+### 1.3 Workshops
+
+Naast het online lesmateriaal hebben we ook allerlei workshops gehad over onderwerpen gerelateerd aan data science.
+
+#### 1.3.1 SCRUM-workshop
+
+Voor het onderzoek binnen de minor is gebruikgemaakt van de SCRUM-methodiek. Daarom hebben we in week 1 een workshop gehad over SCRUM. Bij deze workshop waren wat opdrachten die ik uitgewerkt heb in een [document](Workshops/SCRUM-workshop.pdf "document").
+
+#### 1.3.2 JupyterHub tutorials
 
 Op de JupyterHub van de minor heb ik de tutorials van 'Spark' en 'Exploratory Data Analysis' nog niet afgerond.
 
-### 1.4 Calling Bullshit
+#### 1.3.3 Calling Bullshit
 
 De 'Calling Bullshit'-opdracht heb ik nog niet afgerond.
 
