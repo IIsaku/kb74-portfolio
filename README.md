@@ -130,7 +130,7 @@ Deze taak is al beschreven bij taak 64 onder het kopje 'Dieptebeeld'.
 
 #### Taak 101 - Opnemen van beeldmateriaal in de hhs
 
-Voor deze taak hebben Viradj en ik allereerst de opname setup klaargezet. Hiervoor moesten we o.a. de SDK van ZED installeren wat best veel werk heeft gekost ondanks de extra hulp van Jeffrey. Verder hebben we de type opnames vastgesteld aan de hand van de doeleinden van het beeldmateriaal en vervolgens hebben we de opnames binnen het gebouw van de hhs gemaakt.
+Voor deze taak hebben Viradj en ik allereerst de opname setup met de ZED-camera klaargezet. Hiervoor moesten we o.a. de SDK van ZED installeren wat best veel werk heeft gekost ondanks de extra hulp van Jeffrey. Verder hebben we de type opnames vastgesteld aan de hand van de doeleinden van het beeldmateriaal en vervolgens hebben we de opnames binnen het gebouw van de hhs gemaakt.
 
 #### Taak 103 - Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2
 
@@ -138,7 +138,7 @@ Om het opgenomen beeldmateriaal in taak 101 door de SLAM-algoritmes te laten ver
 
 #### Taak 104 - Opnemen beeldmateriaal van ovaal en buiten
 
-Tekst
+Voor deze taak heb ik met Virdaj vastgesteld welke opnames met de ZED-camera gemaakt moeten worden aan de hand van de doeleinden van het beeldmateriaal.
 
 #### Taak 108 - URB: Tracking
 
