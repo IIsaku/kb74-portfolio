@@ -170,12 +170,8 @@ Er zijn in Delft opnames gemaakt om experimenten uit te voeren met SLAM- en obje
 
 #### Taak 152 - 1. Introduction
 
-TODO: Link toevoegen naar paper
-
-In een vergadering hebben we de plannen besproken voor het op te leveren paper dat gaat over onze vernieuwingen aan het orginele ORB2-algoritme. Voor deze taak hebben ik en wat andere groepsgenoten de introductie van het paper geschreven.
+In een vergadering hebben we de plannen besproken voor het op te leveren paper dat gaat over onze vernieuwingen aan het orginele ORB2-algoritme. Voor deze taak hebben ik en wat andere groepsgenoten de introductie van het [paper](Taken/Taak%20152%20&%20153%20-%20Paper/Paper.pdf "paper") geschreven.
 
 #### Taak 153 - 2. Related Work
 
-TODO: Link toevoegen naar paper
-
-Voor deze taak heb ik samen met Viradj een bijdrage geleverd aan het hoofdstuk 'Related work' van het paper, namelijk het stuk tekst over SLAM.
+Voor deze taak heb ik samen met Viradj een bijdrage geleverd aan het hoofdstuk 'Related work' van het [paper](Taken/Taak%20152%20&%20153%20-%20Paper/Paper.pdf "paper"), namelijk het stuk tekst over SLAM.
