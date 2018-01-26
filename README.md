@@ -8,14 +8,14 @@
 
 ## Inhoudsopgave
 
-1. Individueel werk  
-    1.1 Datacamp  
-    1.2 Coursera  
-    1.3 Workshops  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 SCRUM-workshop  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2 JupyterHub tutorials  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3 Calling Bullshit  
-2. Projectwerk  
+[1. Individueel werk](#1-individueel-werk)  
+    [1.1 Datacamp](#11-datacamp)  
+    [1.2 Coursera](#12-coursera)  
+    [1.3 Workshops](#13-workshops)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.1 SCRUM-workshop](#131-scrum-workshop)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.2 JupyterHub tutorials](#132-jupyterhub-tutorials)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.3 Calling Bullshit](#133-calling-bullshit)  
+[2. Projectwerk](#2-projectwerk)  
     2.1 Projectmatige taken  
     2.2 Inhoudelijke taken  
     * Taak 4 - Literatuur Scan: LSD-SLAM  
@@ -138,7 +138,7 @@ Om het opgenomen beeldmateriaal in taak 101 door de SLAM-algoritmes te laten ver
 
 #### Taak 104 - Opnemen beeldmateriaal van ovaal en buiten
 
-Voor deze taak heb ik met Virdaj vastgesteld welke opnames met de ZED-camera gemaakt moeten worden aan de hand van de doeleinden van het beeldmateriaal.
+Voor deze taak heb ik met Viradj vastgesteld welke opnames met de ZED-camera gemaakt moeten worden aan de hand van de doeleinden van het beeldmateriaal.
 
 #### Taak 108 - URB: Tracking
 
@@ -154,11 +154,7 @@ Tekst
 
 #### Taak 142 - Run URB over dataset delft #141
 
-Tekst
-
-#### Taak 146 - Analyseren URB foute sequences Kitti
-
-Tekst
+Er zijn in Delft opnames gemaakt om experimenten uit te voeren met SLAM- en objectdetectie algoritmes. Voor deze taak heb ik in samenwerking met Viradj geprobeerd deze opnames met verschillende framerates door urb te laten verwerken. Urb bleek echter te instabiel en crashte om de haverklap. We hebben de foutmeldingen in kaart gebracht en getracht de problemen op te lossen. Dit is echter niet gelukt, omdat de code in de notebooks onoverzichtelijk en slecht gedocumenteerd is.
 
 #### Taak 152 - 1. Introduction
 
