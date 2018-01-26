@@ -128,10 +128,6 @@ Nadat alle mogelijkheden afvielen, hebben we besloten dat het formeel evalueren 
 
 Deze taak is al beschreven bij taak 64 onder het kopje 'Dieptebeeld '.
 
-#### Taak 95 - Evalueren slinger
-
-Tekst
-
 #### Taak 100 - Opnamen slinger met kruisjes op grond
 
 Tekst
