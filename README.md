@@ -76,9 +76,8 @@ De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 * [Presentatie week 15](Presentaties/Presentatie%20week%2015.pdf "Presentatie week 15")
 * [Presentatie week 16](Presentaties/Presentatie%20week%2016.pdf "Presentatie week 16")
 
-Verder heb ik ook de volgende notule opgesteld:
+Verder heb ik ook een [notule](Notulen/Urbinn%20-%20Sprint%20Retrospective%20(22-12-2017%20-%20Sprint%208).pdf "notule") opgesteld voor de Sprint Retrospective van sprint 8.
 
-TODO: Notulen opzoeken die ik gemaakt heb.
 
 ### 2.2 Inhoudelijke taken
 
