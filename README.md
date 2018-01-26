@@ -9,18 +9,32 @@
 ## Inhoudsopgave
 
 [1. Individueel werk](#1-individueel-werk)  
-    [1.1 Datacamp](#11-datacamp)  
-    [1.2 Coursera](#12-coursera)  
-    [1.3 Workshops](#13-workshops)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.1 SCRUM-workshop](#131-scrum-workshop)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.2 JupyterHub tutorials](#132-jupyterhub-tutorials)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.3 Calling Bullshit](#133-calling-bullshit)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.1 Datacamp](#11-datacamp)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2 Coursera](#12-coursera)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3 Workshops](#13-workshops)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.1 SCRUM-workshop](#131-scrum-workshop)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.2 JupyterHub tutorials](#132-jupyterhub-tutorials)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.3 Calling Bullshit](#133-calling-bullshit)  
 [2. Projectwerk](#2-projectwerk)  
-    2.1 Projectmatige taken  
-    2.2 Inhoudelijke taken  
-    * Taak 4 - Literatuur Scan: LSD-SLAM  
-
-TODO: inhoudsopgave afmaken
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1 Projectmatige taken](#21-projectmatige-taken)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Inhoudelijke taken](#22-inhoudelijke-taken)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 4 - Literatuur Scan: LSD-SLAM](#taak-4---literatuur-scan-lsd-slam)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 23 - Werking LSD SLAM algoritme begrijpen](#taak-23---werking-lsd-slam-algoritme-begrijpen)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 27 - SVO Paper bestuderen](#taak-27---svo-paper-bestuderen)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 53 - Github repo maken voor eigen ORB2 branch](#taak-53---github-repo-maken-voor-eigen-ORB2-branch)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 55 - Object detection papers lezen](#taak-55---object-detection-papers-lezen)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 63 - Evaluatie: aanpak pointcloud vs pointcloud](#taak-63---evaluatie-aanpak-pointcloud-vs-pointcloud)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 64 - Evaluatie implementatie: pointcloud vs pointcloud](#taak-64---evaluatie-implementatie-pointcloud-vs-pointcloud)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 94 - Dieptebeeld genereren slinger](#taak-94---dieptebeeld-genereren-slinger)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 101 - Opnemen van beeldmateriaal in de hhs](#taak-101---opnemen-van-beeldmateriaal-in-de-hhs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 103 - Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2](#taak-103---beeldmateriaal-van-slinger-en-rugzak-omzetten-voor-orb-slam-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 104 - Opnemen beeldmateriaal van ovaal en buiten](#taak-104---opnemen-beeldmateriaal-van-ovaal-en-buiten)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 108 - URB: Tracking](#taak-108---urb-tracking)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 109 - URB: ORB2 in Python](#taak-109---urb-orb2-in-python)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 140 - URB uitbreiden](#taak-140---urb-uitbreiden)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 142 - Run URB over dataset delft #141](#taak-142---run-urb-over-dataset-delft-141)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 152 - 1. Introduction](#taak-152---1-introduction)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 153 - 2. Related Work](#taak-142---2-related-work)
 
 ## 1. Individueel werk
 
