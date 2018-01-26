@@ -114,13 +114,11 @@ Als gevolg van deze uitkomst hebben Jeffrey en ik gekeken naar een per frame eva
 
 ##### Dieptebeeld
 
-TODO: experiment notebook toevoegen en reden van niet gebruiken uitbreiden.
-
-Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Met een van de tools kan een dieptebeeld gegenereert worden. Dit hebben we gedaan, maar het dieptebeeld bleek relatief te zijn binnen een frame en bevatte geen absolute dieptewaarden, waardoor deze optie ook niet gebruikt kon worden.
+ Het volgende waarnaar we gekeken hebben is het opstellen van een ground truth met behulp van dieptebeelden. Hiervoor hebben we een klein [experiment](Taken/Taak%2064%20-%20Notebooks/depth_map.md "experiment") opgezet. Het gegenereerde dieptebeeld bleek altijd relatief te zijn binnen een frame. Daarnaast was het dieptebeeld niet nauwkeurig genoeg, omdat het sommige vlakken niet herkende. We zijn tot de conclusie gekomen dat deze optie ook niet ging werken.
 
 ##### ZED mesh generatie
 
-Een andere tool voor de ZED-camera is ZEDfu die een 3D mesh, een soort point cloud zoals te zien is in de afbeelding hieronder, genereert aan de hand van een SLAM algoritme. Ik en Viradj zijn met deze tool aan de slag gegaan om te kijken of het bruikbaar was. Hiervoor hebben we beeldmateriaal van de gangen van de Slinger gebruikt. Uiteindelijk bleek dat deze tool te onnauwkeurig was, omdat het geen loop closing functionaliteit bevat, drift vertoont in opnames en niet goed met reflectie omgaat bij de bepaling van diepte.
+Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Een van deze tools is ZEDfu die een 3D mesh, een soort point cloud zoals te zien is in de afbeelding hieronder, genereert aan de hand van een SLAM algoritme. Ik en Viradj zijn met deze tool aan de slag gegaan om te kijken of het bruikbaar was. Hiervoor hebben we beeldmateriaal van de gangen van de Slinger gebruikt. Uiteindelijk bleek dat deze tool te onnauwkeurig was, omdat het geen loop closing functionaliteit bevat, drift vertoont in opnames en niet goed met reflectie omgaat bij de bepaling van diepte.
 
 ![3D mesh van een hal in de Slinger](Afbeeldingen/3D%20mesh%20Slinger.png)
 
