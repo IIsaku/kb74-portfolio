@@ -58,9 +58,9 @@ Binnen de minor heb ik met een projectgroep onderzoek gedaan naar het maken van 
 
 De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 
-- [Presentatie week 6](Presentaties/Presentatie%20week%206.pdf "Presentatie week 6")
-- [Presentatie week 15](Presentaties/Presentatie%20week%2015.pdf "Presentatie week 15")
-- [Presentatie week 16](Presentaties/Presentatie%20week%2016.pdf "Presentatie week 16")
+* [Presentatie week 6](Presentaties/Presentatie%20week%206.pdf "Presentatie week 6")
+* [Presentatie week 15](Presentaties/Presentatie%20week%2015.pdf "Presentatie week 15")
+* [Presentatie week 16](Presentaties/Presentatie%20week%2016.pdf "Presentatie week 16")
 
 Verder heb ik ook de volgende notule opgesteld:
 
@@ -126,15 +126,11 @@ Nadat alle mogelijkheden afvielen, hebben we besloten dat het formeel evalueren 
 
 #### Taak 94 - Dieptebeeld genereren slinger
 
-Deze taak is al beschreven bij taak 64 onder het kopje 'Dieptebeeld '.
-
-#### Taak 100 - Opnamen slinger met kruisjes op grond
-
-Tekst
+Deze taak is al beschreven bij taak 64 onder het kopje 'Dieptebeeld'.
 
 #### Taak 101 - Opnemen van beeldmateriaal in de hhs
 
-Tekst
+Voor deze taak hebben Viradj en ik allereerst de opname setup klaargezet. Hiervoor moesten we o.a. de SDK van ZED installeren wat best veel werk heeft gekost ondanks de extra hulp van Jeffrey. Verder hebben we de type opnames vastgesteld aan de hand van de doeleinden van het beeldmateriaal en vervolgens hebben we de opnames binnen het gebouw van de hhs gemaakt.
 
 #### Taak 103 - Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2
 
