@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 4 - Literatuur Scan: LSD-SLAM](#taak-4---literatuur-scan-lsd-slam)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 23 - Werking LSD SLAM algoritme begrijpen](#taak-23---werking-lsd-slam-algoritme-begrijpen)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 27 - SVO Paper bestuderen](#taak-27---svo-paper-bestuderen)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 53 - Github repo maken voor eigen ORB2 branch](#taak-53---github-repo-maken-voor-eigen-ORB2-branch)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 53 - Github repo maken voor eigen ORB2 branch](#taak-53---github-repo-maken-voor-eigen-orb2-branch)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 55 - Object detection papers lezen](#taak-55---object-detection-papers-lezen)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 63 - Evaluatie: aanpak pointcloud vs pointcloud](#taak-63---evaluatie-aanpak-pointcloud-vs-pointcloud)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 64 - Evaluatie implementatie: pointcloud vs pointcloud](#taak-64---evaluatie-implementatie-pointcloud-vs-pointcloud)  
@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 140 - URB uitbreiden](#taak-140---urb-uitbreiden)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 142 - Run URB over dataset delft #141](#taak-142---run-urb-over-dataset-delft-141)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 152 - 1. Introduction](#taak-152---1-introduction)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 153 - 2. Related Work](#taak-142---2-related-work)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taak 153 - 2. Related Work](#taak-153---2-related-work)
 
 ## 1. Individueel werk
 
