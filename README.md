@@ -114,11 +114,11 @@ Als gevolg van deze uitkomst hebben Jeffrey en ik gekeken naar een per frame eva
 
 ##### Dieptebeeld
 
- Het volgende waarnaar we gekeken hebben is het opstellen van een ground truth met behulp van dieptebeelden. Hiervoor hebben we een klein [experiment](Taken/Taak%2064%20-%20Notebooks/depth_map.md "experiment") opgezet. Het gegenereerde dieptebeeld bleek altijd relatief te zijn binnen een frame. Daarnaast was het dieptebeeld niet nauwkeurig genoeg, omdat het sommige vlakken niet herkende. We zijn tot de conclusie gekomen dat deze optie ook niet ging werken.
+ Het volgende waarnaar we gekeken hebben is het opstellen van een ground truth met behulp van dieptebeelden. Hiervoor hebben we een tool gebruikt die beschikbaar is voor de ZED-camera en een klein [experiment](Taken/Taak%2064%20-%20Notebooks/depth_map.md "experiment") opgezet. Het gegenereerde dieptebeeld bleek altijd relatief te zijn binnen een frame. Daarnaast was het dieptebeeld niet nauwkeurig genoeg, omdat het sommige vlakken niet herkende. We zijn tot de conclusie gekomen dat deze optie ook niet ging werken.
 
 ##### ZED mesh generatie
 
-Bij de ZED-camera worden handige tools geleverd voor het verwerken van beeldmateriaal. Een van deze tools is ZEDfu die een 3D mesh, een soort point cloud zoals te zien is in de afbeelding hieronder, genereert aan de hand van een SLAM algoritme. Ik en Viradj zijn met deze tool aan de slag gegaan om te kijken of het bruikbaar was. Hiervoor hebben we beeldmateriaal van de gangen van de Slinger gebruikt. Uiteindelijk bleek dat deze tool te onnauwkeurig was, omdat het geen loop closing functionaliteit bevat, drift vertoont in opnames en niet goed met reflectie omgaat bij de bepaling van diepte.
+Een andere tool voor de ZED-camera is ZEDfu die een 3D mesh, een soort point cloud zoals te zien is in de afbeelding hieronder, genereert aan de hand van een SLAM algoritme. Ik en Viradj zijn met deze tool aan de slag gegaan om te kijken of het bruikbaar was. Hiervoor hebben we beeldmateriaal van de gangen van de Slinger gebruikt. Uiteindelijk bleek dat deze tool te onnauwkeurig was, omdat het geen loop closing functionaliteit bevatte, drift vertoonde in opnames en niet goed met reflectie omging bij de bepaling van diepte.
 
 ![3D mesh van een hal in de Slinger](Afbeeldingen/3D%20mesh%20Slinger.png)
 
@@ -126,7 +126,7 @@ Nadat alle mogelijkheden afvielen, hebben we besloten dat het formeel evalueren 
 
 #### Taak 94 - Dieptebeeld genereren slinger
 
-Tekst
+Deze taak is al beschreven bij taak 64 onder het kopje 'Dieptebeeld '.
 
 #### Taak 95 - Evalueren slinger
 
