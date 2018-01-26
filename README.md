@@ -154,15 +154,15 @@ Voor deze taak heb ik met Viradj vastgesteld welke opnames met de ZED-camera gem
 
 #### Taak 108 - URB: Tracking
 
-Tekst
+TODO: werkzaamheden/producten nog omschrijven
 
 #### Taak 109 - URB: ORB2 in Python
 
-Tekst
+TODO: werkzaamheden/producten nog omschrijven
 
 #### Taak 140 - URB uitbreiden
 
-Tekst
+TODO: werkzaamheden/producten nog omschrijven
 
 #### Taak 142 - Run URB over dataset delft #141
 
