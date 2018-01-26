@@ -109,8 +109,8 @@ Allereerst hebben Jeroen, Jeffrey en ik gekeken naar LIDAR-data, omdat de KITTI-
 ![LIDAR point clouds](Afbeeldingen/LIDAR%20point%20clouds.png)
 
  In een notebook, dat helaas per ongeluk verwijderd is door Jeroen, hebben we geprobeerd dit te doen met behulp van pose informatie afkomstig van de KITTI-dataset. Helaas zijn we er na lang proberen niet in geslaagd om dat voor elkaar te krijgen, waardoor deze aanpak ook niet gebruikt kon worden voor eigen opnames in bijvoorbeeld Delft.
- 
-Als gevolg van de uitkomst hebben Jeffrey en ik gekeken naar een per frame evaluatie aanpak met behulp van het nearest neighbour algoritme. Hiervoor hebben we een test gemaakt in een [notebook](Taken/Taak%2064%20-%20Notebooks/keyframe_conversion.md "notebook"). Helaas kwamen we er al snel achter dat de LIDAR minder ver 3D-punten vind dan een visueel SLAM-algoritme voor hetzelfde opnamemoment. Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
+
+Als gevolg van deze uitkomst hebben Jeffrey en ik gekeken naar een per frame evaluatie aanpak met behulp van het nearest neighbour algoritme. Hiervoor hebben we een test gemaakt in een [notebook](Taken/Taak%2064%20-%20Notebooks/keyframe_conversion.md "notebook"). Helaas kwamen we er al snel achter dat de LIDAR minder ver 3D-punten vind dan een visueel SLAM-algoritme voor hetzelfde opnamemoment. Bovendien bleek na een tijdje dat de beschikbare LIDAR voor deze minor niet goed genoeg was, waardoor deze optie definitief afviel.
 
 ##### Dieptebeeld
 
