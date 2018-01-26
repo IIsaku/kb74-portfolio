@@ -134,7 +134,7 @@ Voor deze taak hebben Viradj en ik allereerst de opname setup klaargezet. Hiervo
 
 #### Taak 103 - Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2
 
-Tekst
+Om het opgenomen beeldmateriaal in taak 101 door de SLAM-algoritmes te laten verwerken, hebben we de output van de ZED-camera (svo-bestand) met behulp van de ZED SDK export functionaliteiten omgezet naar een avi-bestand. Vervolgens hebben we met de tool ffmpeg voor linux dit avi-bestand omgezet in png-bestanden.
 
 #### Taak 104 - Opnemen beeldmateriaal van ovaal en buiten
 
