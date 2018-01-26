@@ -78,7 +78,6 @@ De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 
 Verder heb ik ook een [notule](Notulen/Urbinn%20-%20Sprint%20Retrospective%20(22-12-2017%20-%20Sprint%208).pdf "notule") opgesteld voor de Sprint Retrospective van sprint 8.
 
-
 ### 2.2 Inhoudelijke taken
 
 Binnen het onderzoek heb ik een bijdrage geleverd aan verschillende taken. Hieronder geef ik per taak aan wat mijn bijdrage is geweest.
