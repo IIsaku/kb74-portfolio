@@ -58,7 +58,24 @@ Voor het onderzoek binnen de minor is gebruikgemaakt van de SCRUM-methodiek. Daa
 
 #### 1.3.2 JupyterHub tutorials
 
-Op de JupyterHub van de minor heb ik de tutorials van 'Spark' en 'Exploratory Data Analysis' nog niet afgerond.
+Op de JupyterHub van de minor heb ik de tutorials over Spark en Exploratory Data Analysis afgerond. Hieronder zijn referenties naar de notebooks te vinden.
+
+##### Exploratory Data Analysis tutorial
+
+* [1 Checking Data Edges](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/1+Checking+Data+Edges.md "1 Checking Data Edges")
+* [2 Identifying variables](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/2+Identifying+variables.md "2 Identifying variables")
+* [3 Univariate Analysis](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/3+Univariate+Analysis/3+Univariate+Analysis.md "3 Univariate Analysis")
+* [4 Bivariate Analysis](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/4+Bivariate+Analysis/4+Bivariate+Analysis.md "4 Bivariate Analysis")
+* [5 Missing Values](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/5+Missing+Values.md "5 Missing Values")
+* [6 Outliers](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/6+Outliers/6+Outliers.md "6 Outliers")
+* [7 Data Transformation](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/7+Data+Transformation/7+Data+Transformation.md "7 Data Transformation")
+* [8 Creating Variables](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/8+Creating+Variables.md "8 Creating Variables")
+* [9 Evaluate](Workshops/JupyterHub%20tutorials/Exploratory%20Data%20Analysis%20tutorial/9+Evaluate.md "9 Evaluate")
+
+##### Spark tutorial
+
+* [Assignment 1](Workshops/JupyterHub%20tutorials/Spark%20tutorial/assignment1.md "Assignment 1")
+* [Assignment 2](Workshops/JupyterHub%20tutorials/Spark%20tutorial/assignment2.md "Assignment 2")
 
 #### 1.3.3 Calling Bullshit
 
