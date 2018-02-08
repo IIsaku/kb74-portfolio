@@ -4,7 +4,7 @@
 
 **Naam:** Isa Isaku  
 **Studentnummer:** 14149486  
-**Datum:** 26-01-2018
+**Datum:** 13-02-2018
 
 ## Inhoudsopgave
 
@@ -42,7 +42,10 @@ Binnen de minor heb ik aangeleverde lesstof en opdrachten op o.a. DataCamp, Cour
 
 ### 1.1 Datacamp
 
-Op DataCamp heb ik nagenoeg alle verplichte onderdelen gevolgd. Het enige wat momenteel ontbreekt zijn de 4 hoofdstukken van de cursus 'Supervised Learning with scikit-learn'. In de map [DataCamp](DataCamp "DataCamp") is het bewijsmateriaal te vinden. Niet alle verplichte onderdelen staan in het overzicht van voltooide opdrachten. Vandaar dat ik een extra afbeelding ter aanvulling heb toegevoegd.
+Op DataCamp heb ik alle verplichte onderdelen gevolgd. In de map [DataCamp](DataCamp "DataCamp") is het bewijsmateriaal te vinden. Niet alle verplichte onderdelen staan in het overzicht van voltooide opdrachten. Vandaar dat ik een extra afbeelding ter aanvulling heb toegevoegd.
+
+![test](DataCamp/Voltooide%20opdrachten.PNG)
+![test](DataCamp/Accountoverzicht.PNG) | ![test](DataCamp/Aanvulling%20voltooide%20opdrachten.PNG)
 
 ### 1.2 Coursera
 
