@@ -44,9 +44,6 @@ Binnen de minor heb ik aangeleverde lesstof en opdrachten op o.a. DataCamp, Cour
 
 Op DataCamp heb ik alle verplichte onderdelen gevolgd. In de map [DataCamp](DataCamp "DataCamp") is het bewijsmateriaal te vinden. Niet alle verplichte onderdelen staan in het overzicht van voltooide opdrachten. Vandaar dat ik een extra afbeelding ter aanvulling heb toegevoegd.
 
-| ![test](DataCamp/Voltooide%20opdrachten.PNG) |
-| ![test](DataCamp/Accountoverzicht.PNG) | ![test](DataCamp/Aanvulling%20voltooide%20opdrachten.PNG) |
-
 ### 1.2 Coursera
 
 Op Coursera heb ik de eerste twee weken van de cursus 'Machine Learning' voltooid. Het materiaal van week 3 en 6 moet ik nog doorlopen. In de map [Coursera](Coursera "Coursera") is het bewijsmateriaal te vinden.
