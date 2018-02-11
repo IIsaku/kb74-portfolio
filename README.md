@@ -171,11 +171,21 @@ Voor deze taak heb ik met Viradj vastgesteld welke opnames met de ZED-camera gem
 
 #### Taak 108 - URB: Tracking
 
-TODO: werkzaamheden/producten nog omschrijven
+Er is op een gegeven moment besloten dat we onze eigen variant van ORB-SLAM2, genaamd URB, gingen bouwen in Python. Voor deze taak hebben Jeroen, Jeffrey en ik gewerkt aan de URB-implementatie van het tracking gedeelte van ORB-SLAM2.
+
+Allereerst hebben we gekeken naar het extraheren van orbs uit een linker en rechter frame die afkomstig zijn van een stereo camera. Hiervoor hebben we de library OpenCV gebruikt. Vervolgens hebben we op dezelfde wijze als ORB-SLAM2 geprobeerd orbs uit het linker frame te matchen aan gelijke orbs in het rechter frame, ook wel stereo matching genoemd. Net als in ORB-SLAM2 is hiervoor gebruikgemaakt van subpixel matching, een techniek waardoor de verplaatsing van een orb tussen linker en rechter frame op subpixel niveau kan worden uitgedrukt, zodat uiteindelijk de diepte van een plek in de wereld zo nauwkeurig mogelijk kan worden berekend.
+
+Met behulp van stereo beelden van de KITTI-dataset hebben we informele experimenten uitgevoerd om te kijken hoe goed te diepte wordt berekend. De resultaten van de berekeningen zagen er goed uit, maar er zat wel veel ruis tussen. Het bleek dat ORB-SLAM2 nauwelijks controleert of orbs uit linker en rechter frames goed matchen. Daarom hebben we gekozen voor een andere aanpak om stereo matching uit te voeren. In deze aanpak worden alleen orbs geëxtraheerd uit het linker frame. Vervolgens wordt er een patch van 17x17 pixels gepakt rond deze orbs en wordt zo'n patch op gelijke hoogte in het rechter frame horizontaal verplaatst om te kijken waar deze het best overeenkomt. Deze manier kan toegepast worden, omdat de afbeeldingen rectified zijn. Door weer gebruik te maken van subpixel matching, kan de diepte weer nauwkeurig worden berekend.
+
+Ondanks deze aanpassingen bleek er nog steeds te veel ruis te zijn. We waren op een gegeven moment op het idee gekomen om gebruik te maken van een vertical 'canny edge' filter om alleen de begin- en eindpunten van verticale lijnen te gebruiken als orbs. Na wat experimenteren bleek dit inderdaad aardig te werken.
+
+Een ander belangrijk onderdeel binnen het tracking gedeelte is het uitvoeren van motion-only bundle adjustment om camera poses te berekenen. ORB-SLAM2 maakt hiervoor gebruik van de C++ library g2o die bundle adjustment functionaliteiten biedt. Om in URB ook hiervan gebruik te kunnen maken, hebben we zogenaamde Python hooks moeten maken om de C++ code in deze library aan te roepen vanuit Python. Dit hebben we kunnen bereiken met behulp van de library Boos Python. Daarnaast hebben we de code van g2o moeten uitbreiden om specifiek motion-only bundle adjustment te kunnen gebruiken. Dit was goed te doen, omdat we de code van ORB-SLAM2 als referentie konden gebruiken.
+
+De code die in deze taak gemaakt is, is terug te vinden in het opgeleverde eindprodcuct.
 
 #### Taak 109 - URB: ORB2 in Python
 
-TODO: werkzaamheden/producten nog omschrijven
+Taak 109 was de overkoepelende taak voor het implementeren van URB. Voor deze taak heb ik samen met Jeffrey een git-repository opgezet voor URB, waarin gebruikgemaakt wordt van Docker om cross-platform URB te kunnen draaien. Ook hebben we gekeken naar de structuur die de applicatie moest gaan krijgen. Dit was nodig omdat we tot nu toe alles in notebooks hebben ontwikkeld en het overzicht van de code steeds slechter werd. We wilden een OOP-structuur opzetten om meer overzicht te creëren. Hiervoor hebben we eerst de structuur van de code in de notebooks in kaart gebracht en vervolgens zijn we met behulp van een component- en klassendiagram een nieuwe structuur gaan ontwerpen.
 
 #### Taak 140 - URB uitbreiden
 
