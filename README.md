@@ -93,7 +93,7 @@ De volgende presentaties zijn o.a. door mij gecreëerd en gepresenteerd:
 * [Presentatie week 15](Presentaties/Presentatie%20week%2015.pdf "Presentatie week 15")
 * [Presentatie week 16](Presentaties/Presentatie%20week%2016.pdf "Presentatie week 16")
 
-Verder heb ik ook [notulen](Notulen/Urbinn%20-%20Sprint%20Retrospective%20(22-12-2017%20-%20Sprint%208).pdf "notulen") opgesteld voor de Sprint Retrospective van sprint 8.
+Verder heb ik [notulen](Notulen/Urbinn%20-%20Sprint%20Retrospective%20(22-12-2017%20-%20Sprint%208).pdf "notulen") opgesteld voor de Sprint Retrospective van sprint 8 en geholpen bij het maken van de [eindpresentatie](Presentaties/Eindpresentatie.pdf "eindpresentatie").
 
 ### 2.2 Inhoudelijke taken
 
@@ -189,7 +189,13 @@ Taak 109 was de overkoepelende taak voor het implementeren van URB. Voor deze ta
 
 #### Taak 140 - URB uitbreiden
 
-TODO: werkzaamheden/producten nog omschrijven
+In deze taak heb ik Jeffrey een beetje geholpen om YOLO te kopppelen aan URB, zodat we kunnen aanduiden welke orbs bij een bepaald object horen, zoals te zien is hieronder.
+
+![Bounding boxes met orbs](Afbeeldingen/URB-YOLO.png)
+
+Ik heb geholpen bij het uitlezen en verwerken van de JSON-file die YOLO als output geeft en dat als input dient voor URB. Uiteindelijk hebben we het voor elkaar gekregen om een 2D-semantische kaart uit URB te halen.
+
+![2D-Semantische kaart](Afbeeldingen/Semantische%20kaart.png)
 
 #### Taak 142 - Run URB over dataset delft #141
 
