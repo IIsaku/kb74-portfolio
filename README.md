@@ -1,6 +1,6 @@
-# KB74-portfolio
+# KB-74-portfolio
 
-*Portfolio voor de minor Applied Data Science (KB74).*
+*Portfolio voor de minor Applied Data Science (KB-74).*
 
 **Naam:** Isa Isaku  
 **Studentnummer:** 14149486  
