@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3 Workshops](#13-workshops)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.1 SCRUM-workshop](#131-scrum-workshop)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.2 JupyterHub tutorials](#132-jupyterhub-tutorials)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.3 Calling Bullshit](#133-calling-bullshit)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3.3 Calling bullshit](#133-calling-bullshit)  
 [2. Projectwerk](#2-projectwerk)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1 Projectmatige taken](#21-projectmatige-taken)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Inhoudelijke taken](#22-inhoudelijke-taken)  
@@ -46,7 +46,7 @@ Op DataCamp heb ik alle verplichte onderdelen gevolgd. In de map [DataCamp](Data
 
 ### 1.2 Coursera
 
-Op Coursera heb ik de eerste twee weken van de cursus 'Machine Learning' voltooid. Het materiaal van week 3 en 6 moet ik nog doorlopen. In de map [Coursera](Coursera "Coursera") is het bewijsmateriaal te vinden.
+Op Coursera heb ik alle verplichte onderdelen doorlopen. In de map [Coursera](Coursera "Coursera") is het bewijsmateriaal te vinden.
 
 ### 1.3 Workshops
 
@@ -77,9 +77,9 @@ Op de JupyterHub van de minor heb ik de tutorials over Spark en Exploratory Data
 * [Assignment 1](Workshops/JupyterHub%20tutorials/Spark%20tutorial/assignment1.md "Assignment 1")
 * [Assignment 2](Workshops/JupyterHub%20tutorials/Spark%20tutorial/assignment2.md "Assignment 2")
 
-#### 1.3.3 Calling Bullshit
+#### 1.3.3 Calling bullshit
 
-De 'Calling Bullshit'-opdracht heb ik nog niet afgerond.
+De [Calling bullshit opdracht](Workshops/Calling%20bullshit%20opdracht.pdf "Calling bullshit opdracht") heb ik afgerond.
 
 ## 2. Projectwerk
 
