@@ -38,7 +38,7 @@
 
 ## 1. Individueel werk
 
-Binnen de minor heb ik aangeleverde lesstof en opdrachten op o.a. DataCamp, Coursera en de JupyterHub zoveel als mogelijk doorlopen. In dit hoofdstuk staat aangegeven welke onderdelen ik heb afgerond inclusief bewijs.
+Binnen de minor heb ik aangeleverde lesstof en opdrachten op o.a. DataCamp, Coursera en de JupyterHub doorlopen. In dit hoofdstuk is het bewijs hiervoor te vinden.
 
 ### 1.1 Datacamp
 
